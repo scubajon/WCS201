@@ -1,0 +1,102 @@
+What are the hotel Restaurant hours of operation?,hotel_hours
+What time can I grab dinner? ,hotel_hours
+What are the pool and Fitness Center hours ?,hotel_hours
+What time does the restaurant close?,hotel_hours
+What are your hours of the restaurant?,hotel_hours
+When is the gym open?,hotel_hours
+what's open right now ,hotel_hours
+When does the gym close?,hotel_hours
+When is the pool open?,hotel_hours
+What are the hours of the gym?,hotel_hours
+hours fo pool,hotel_hours
+What time does the food place open? ,hotel_hours
+When are you serving dinner?,hotel_hours
+What are the hours of your restaurant?,hotel_hours
+What time does the lounge/restaurant open,hotel_hours
+What's the lunch time?,hotel_hours
+Can I bring food to the pool?,hotel_info
+How deep is the pool?,hotel_info
+Is the pool heated?,hotel_info
+Do you have water in your gym?,hotel_info
+What size is the pool?,hotel_info
+Do you have an outdoor/ indoor pool?,hotel_info
+Is there a lifeguard?,hotel_info
+What is the length of the Pool?,hotel_info
+Can I order food at the pool?,hotel_info
+Do you have a bike?,hotel_info
+Do you have weights?,hotel_info
+Do you have an elliptical?,hotel_info
+Can I walk to that restaurant or do I need to take a cab?,hotel_locations
+Which floor is the gym/pool on?,hotel_locations
+I want to eat at an Italian restaurant.  What are the best ones around?  ,hotel_locations
+Whereabouts is the gym?,hotel_locations
+Where is the hotel cafe?,hotel_locations
+Where is the restaurant?,hotel_locations
+Where can I get sushi?,local_recommend
+Is the pool outside?,hotel_locations
+Where can I go swimming?,hotel_locations
+I'm hungry. Where can I eat?,hotel_locations
+Where is the gym? ,hotel_locations
+How do I get in the gym?,hotel_locations
+any good time to go swimming,hotel_locations
+I want to work out.,hotel_locations
+Where is hotel restaurant? ,hotel_locations
+I want to go swimming.,hotel_locations
+Where is the gym/fitness center,hotel_locations
+Hi!  What's the quickest way to get from point A to point B.,hotel_locations
+Where is the pool,hotel_locations
+Where is the gym?,hotel_locations
+Is there a local full service gym?,hotel_locations
+Where is the restaurant,hotel_locations
+Do you have a sauna?,hotel_locations
+When can I go for a swim,hotel_locations
+Do you have an outdoor pool?,hotel_locations
+Where do you serve lunch?,hotel_locations
+Where is the swimming pool? ,hotel_locations
+can I get hot tea at breakfast?,hotel_locations
+How can I arrange transportation?,hotel_procedure
+Hey can I get some new towels up to my room ,hotel_procedure
+How do I arrange a shuttle or taxi to the airport?,hotel_procedure
+How do I adjust the heat/AC in the guestroom?,hotel_procedure
+How do I set the clock alarm in the guestroom?,hotel_procedure
+How do I arrange a shuttle or a taxi to the airport?,hotel_procedure
+How can I book a taxi?,hotel_procedure
+How do I book a large reservation in the restaurant?,hotel_procedure
+How can I book a taxi?,hotel_procedure
+How can I book a cab?,hotel_procedure
+how do I turn the ac off in my room,hotel_procedure
+What local restaurants have live music?,local_recommend
+Is there any where I can get food to go around here?,local_recommend
+Can you recommend a Japanese restaurant? ,local_recommend
+Hi! Where's a hole in the wall restaurant that's not on your list and you would take your family to.,local_recommend
+We're looking for a good Chinese restaurant nearby. Any suggestions?,local_recommend
+Is there any kind of to go food I can get?,local_recommend
+Recommend me good restaurants close by?,local_recommend
+Good sitdown reaturants in the area.,local_recommend
+Which restaurants deliver to the hotel?,local_recommend
+Could you give me a recommendation for a good restaurant with Mexican food?,local_recommend
+"can you recommend a restaurant nearby?  i'm looking for """"x"""" cuisine and """"x"""" cost.",local_recommend
+I would like to have dinner at a nice restaurant.  Can you give me some ideas?,local_recommend
+Can you recommend a restaurant that is not a chain for Italian cuisine?,local_recommend
+What local restaurants have happy hour?,local_recommend
+Can you recommend some great upscale restaurants outside of the hotel?,local_recommend
+What restaurants are in the mall?,local_recommend
+Can you recommend a restaurant for dinner? Perhaps chinese food or italian. Within walking distance of the hotel.,local_recommend
+Is there a place close that I can walk to for dinner?,local_recommend
+What local restaurants have outdoor seating?,local_recommend
+I am really hungry you know a good place to eat around here ,local_recommend
+What local restaurants have Jazz music?,local_recommend
+Hello I'm starving I'm looking for a place to eat,local_recommend
+Is there a restaurant close by that you would recommend?,local_recommend
+Hey I was looking for someplace interesting to go eat.  do you know anyplace nearby?,local_recommend
+What are the best restaurants to visit that would provide me a taste of the town?,local_recommend
+What Chinese restaurants deliver to the hotel?,local_recommend
+Can you recommend a good restaurant for dinner?,local_recommend
+Can you recomend a resturant?,local_recommend
+What fast food places are closed by the hotel?,local_recommend
+What pizza restaurants deliver to the hotel?,local_recommend
+Can you make a dinner recommendation - we are thinking Italian. ,local_recommend
+Can you recommend a good Italian restaurant?,local_recommend
+Is there a convenience store near here?,local_recommend
+Where can I buy toiletries,local_recommend
+Is there a place to buy a toothbrush near here?,local_recommend
